@@ -60,3 +60,11 @@ Sample Response
 Status Code: 200
 Response JSON: {'validation_result': [{'code': '01', 'description': 'LIVE ANIMALS', 'hierarchy': {'01': 'LIVE ANIMALS'}, 'status': 'Valid'}, {'code': '0101', 'description': 'LIVE HORSES, ASSES, MULES AND HINNIES.', 'hierarchy': {'01': 'LIVE ANIMALS', '0101': 'LIVE HORSES, ASSES, MULES AND HINNIES.'}, 'status': 'Valid'}, {'code': '9954', 'description': 'Construction services', 'hierarchy': {'99': 'All Services', '9954': 'Construction services'}, 'status': 'Valid'}, {'code': '123', 'message': 'HSN code must be numeric and length must be 2, 4, 6, or 8', 'status': 'Invalid Format'}, {'code': '995431', 'description': 'Demolition services', 'hierarchy': {'99': 'All Services', '9954': 'Construction services', '995431': 'Demolition services'}, 'status': 'Valid'}]}
 
+
+## Execution of the file
+
+
+https://github.com/user-attachments/assets/49ef0440-900b-42e7-ab38-2fda091ede9b
+
+
+
