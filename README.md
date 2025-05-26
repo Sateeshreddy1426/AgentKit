@@ -45,9 +45,15 @@ HSN-Code-Validation-Agent/
 
  2. Start the Flask Server
     python fulfill.py
+![Screenshot 2025-05-26 115100](https://github.com/user-attachments/assets/f17e59f4-917c-4b92-9b6e-2556ea9133b1)
+
+    
 
  3.Testing the API
    python test_api.py
+
+   ![Screenshot 2025-05-26 114807](https://github.com/user-attachments/assets/340fee84-c590-4022-b315-230c0273f927)
+
 
 Sample Response
 
